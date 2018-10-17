@@ -1,0 +1,6 @@
+1. Loss Function
+   1.1 Softmax, Softmax Loss, Large-Margin Softmax Loss
+       Gated Softmax Classification
+           http://www-oldurls.inf.ethz.ch/personal/marc.pollefeys/pubs/MemisevicNIPS10.pdf
+       Large-Margin Softmax Loss for Convolutional Neural Networks
+           http://proceedings.mlr.press/v48/liud16.pdf
