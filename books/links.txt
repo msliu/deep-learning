@@ -1,0 +1,5 @@
+1. Deep Learning - An MIT Press book
+   https://www.deeplearningbook.org/
+
+2. Deep Learning》读书笔记
+   https://applenob.github.io/   
