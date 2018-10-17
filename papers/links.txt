@@ -1,4 +1,12 @@
 1. Loss Function
+   Current data loss function used in CNN listed below:
+   Euclidean loss, (square) hinge loss, information gain loss, contrastive loss, triplet loss, Softmax loss
+
+   Def: We define the softmax loss as the combination of 
+        A). a cross-entropy loss,
+        B). a softmax function and
+        C). the last fully connected layer
+
    1.1 Softmax, Softmax Loss, Large-Margin Softmax Loss
        Gated Softmax Classification
            http://www-oldurls.inf.ethz.ch/personal/marc.pollefeys/pubs/MemisevicNIPS10.pdf
