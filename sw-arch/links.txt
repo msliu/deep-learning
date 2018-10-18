@@ -1,0 +1,5 @@
+1. An Overview of Multi-Task Learning in Deep Neural Networks
+   http://ruder.io/multi-task/
+
+2. A Survey on Multi-Task Learning
+   https://arxiv.org/pdf/1707.08114.pdf 
