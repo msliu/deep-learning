@@ -1,3 +1,7 @@
+0. CNN
+   0.1 Bilinear CNNs for Fine-grained Visual Recognition
+       http://vis-www.cs.umass.edu/bcnn/
+
 1. Loss Function
    Current data loss function used in CNN listed below:
    Euclidean loss, (square) hinge loss, information gain loss, contrastive loss, triplet loss, Softmax loss

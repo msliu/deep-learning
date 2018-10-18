@@ -1,0 +1,7 @@
+1. https://www.ijcai-18.org/
+   International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence
+   1.1 ijcai accepted paper
+       https://www.ijcai-18.org/accepted-papers/
+
+2. CVPR
+   http://openaccess.thecvf.com/CVPR2018.py
