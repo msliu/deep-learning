@@ -20,3 +20,6 @@
 2. Face Recognition
    2.1 SphereFace: Deep Hypersphere Embedding for Face Recognition
         https://arxiv.org/abs/1704.08063
+
+   2.2 CosFace: Large Margin Cosine Loss for Deep Face Recognition
+       https://arxiv.org/abs/1801.09414
