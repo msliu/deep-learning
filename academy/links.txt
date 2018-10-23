@@ -5,3 +5,10 @@
 
 2. CVPR
    http://openaccess.thecvf.com/CVPR2018.py
+
+3. SUMMER SCHOOL ON Deep Learning AND Bayesian Methods
+   http://deepbayes.ru/
+   https://github.com/bayesgroup/deepbayes-2018
+
+4. NIPS -  Neural Information Processing Systems
+   https://nips.cc/Conferences/2018   
