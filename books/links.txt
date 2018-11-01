@@ -3,3 +3,6 @@
 
 2. Deep Learning》读书笔记
    https://applenob.github.io/
+
+3. A first course in probability by ross.
+   http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
