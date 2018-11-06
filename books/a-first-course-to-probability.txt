@@ -1,0 +1,31 @@
+
+
+
+Chap 2: Axioms of Probability
+
+2.2 SAMPLE SPACE AND EVENTS
+* Consider an experiment whose outcome is not predictable
+* The set of all possible outcomes is known.
+* This set of all possible outcomes of an experiment is known as the sample space of the experiment and is denoted by S.
+
+  ** If the outcome of an experiment consists in the determination of the sex of a newborn child 
+
+     S = {g, b}
+
+  ** If the outcome of an experiment is the order of finish in a race among the 7 horses
+ 
+     S = {all 7! permutations of (1, 2, 3, 4, 5, 6, 7)}
+
+* Any subset E of the sample space is known as an event
+
+   Example 1, if E = {g}, then E is the event that the child is a girl.
+   In Example 2, E = {all outcomes in S starting with a 3} then E is the event that horse 3 wins the race.
+   .......
+
+* For any two events E and F of a sample space S, we define the new event E ∪ F
+  to consist of all outcomes that are either in E or in F or in both E and F.
+
+     E ∪ F = {g, b}
+
+
+
