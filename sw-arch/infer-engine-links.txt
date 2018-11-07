@@ -1,10 +1,18 @@
 1. Grpc and protobuf
-   How to install protobuf:
-   http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
-   How to install grpc:
-   http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
-   安装gRPC，pip3 install grpcio
-   安装gRPC，pip3 install grpcio-tools
+   - How to install protobuf:
+     http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
+   - How to install grpc:
+     http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
+     安装gRPC，pip3 install grpcio
+     安装gRPC，pip3 install grpcio-tools
 
-   gRPC tutorial
-   https://github.com/daikeren/grpc_tutorial
+   - gRPC tutorial
+     https://github.com/daikeren/grpc_tutorial
+     grpc code implementation among different language.
+   - https://github.com/grpc/grpc
+
+   - Shared memory for grpc client and server
+     https://stackoverflow.com/questions/47550894/shared-memory-for-grpc-client-and-server
+
+   - Apache Arrow 0.11.0 Release
+     https://arrow.apache.org/blog/
