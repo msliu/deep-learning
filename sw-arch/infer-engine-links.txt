@@ -16,3 +16,13 @@
 
    - Apache Arrow 0.11.0 Release
      https://arrow.apache.org/blog/
+
+   - Python bindings for Apache Arrow
+     https://arrow.apache.org/docs/python/
+     -- a cross-language development platform for in-memory data.
+     -- command to create pyarrow for python3
+        virtualenv -p python3 pyarrow
+        Note: virtualenv pyarrow   -----> default create python 2.7
+
+
+
