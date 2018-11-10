@@ -23,6 +23,5 @@
      -- command to create pyarrow for python3
         virtualenv -p python3 pyarrow
         Note: virtualenv pyarrow   -----> default create python 2.7
-
-
+     -- https://arrow.apache.org/docs/python/development.html#developing-on-linux-and-macos
 
