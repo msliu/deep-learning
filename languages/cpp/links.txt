@@ -1,0 +1,4 @@
+1. C++11: How to create Vector of Thread Objects
+   https://thispointer.com/c11-how-to-create-vector-of-thread-objects/
+
+   vecOfThreads.push_back(std::move(th1));
