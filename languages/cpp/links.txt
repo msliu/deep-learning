@@ -2,3 +2,34 @@
    https://thispointer.com/c11-how-to-create-vector-of-thread-objects/
 
    vecOfThreads.push_back(std::move(th1));
+
+   my example code
+   1. Create threads
+   mThreadPool.push_back(move(thread(&obj::objectThread,
+                                    this,
+                                    aArgument1,
+                                    aArgument2)));
+
+  join all threads
+  for (int i=0 ; i < mThreadPool.size() ; i++) {
+    mThreadPool[i].join();
+  }
+
+2. Lock
+   https://en.cppreference.com/w/cpp/thread/lock_guard
+   std::lock_guard
+
+   my example code
+   In class def:
+   
+   class obj
+   {
+     private:
+       std::mutex mLock;
+   }
+
+   void obj::fun() {
+     lock_guard<mutex> lock(mLock);
+   }
+
+   
