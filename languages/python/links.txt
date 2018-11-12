@@ -5,4 +5,7 @@
    https://docs.python.org/2/library/multiprocessing.html
 
 3. rq workers
-   https://arrow.apache.org/docs/python/   
+   https://arrow.apache.org/docs/python/
+
+4. Virtualenv and pip Basics
+   http://jonathanchu.is/posts/virtualenv-and-pip-basics/
