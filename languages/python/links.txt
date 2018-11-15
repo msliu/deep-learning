@@ -28,3 +28,6 @@
    alias v.cdsitepackages='cdsitepackages'
    alias v.cd='cdvirtualenv'
    alias v.lssitepackages='lssitepackages'
+
+5. What is Nameko?
+   https://nameko.readthedocs.io/en/stable/index.html

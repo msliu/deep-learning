@@ -2,4 +2,21 @@
    http://ruder.io/multi-task/
 
 2. A Survey on Multi-Task Learning
-   https://arxiv.org/pdf/1707.08114.pdf 
+   https://arxiv.org/pdf/1707.08114.pdf
+
+3. Apache Arrow
+   Introduction to Apache Arrow
+   https://beta.observablehq.com/@theneuralbit/introduction-to-apache-arrow
+
+   Official github link
+   https://github.com/apache/arrow
+
+
+   https://arrow.apache.org/docs/python/ipc.html
+   Streaming, Serialization, and IPC
+   Memory and IO Interfaces
+   https://arrow.apache.org/docs/python/memory.html#io
+   pyarrow.plasma.PlasmaClient
+   https://arrow.apache.org/docs/python/generated/pyarrow.plasma.PlasmaClient.html
+
+
