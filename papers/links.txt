@@ -18,6 +18,9 @@
            http://proceedings.mlr.press/v48/liud16.pdf
 
 2. Face Recognition
+   The top 7 trends for facial recognition in 2018
+   https://www.gemalto.com/govt/biometrics/facial-recognition
+
    2.1 SphereFace: Deep Hypersphere Embedding for Face Recognition
         https://arxiv.org/abs/1704.08063
 
