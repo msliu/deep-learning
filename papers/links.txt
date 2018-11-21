@@ -3,6 +3,9 @@
        http://vis-www.cs.umass.edu/bcnn/
 
 1. Loss Function
+   Introduction to Loss Functions
+   https://blog.algorithmia.com/introduction-to-loss-functions/
+
    Current data loss function used in CNN listed below:
    Euclidean loss, (square) hinge loss, information gain loss, contrastive loss, triplet loss, Softmax loss
 
