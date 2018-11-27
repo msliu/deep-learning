@@ -25,3 +25,5 @@
         Note: virtualenv pyarrow   -----> default create python 2.7
      -- https://arrow.apache.org/docs/python/development.html#developing-on-linux-and-macos
 
+2. Rust: Open Machine Intelligence Framework for Hackers. (GPU/CPU)
+   https://github.com/autumnai/leaf
