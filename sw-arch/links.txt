@@ -52,7 +52,42 @@
    ubuntu add crt to trusted
    https://askubuntu.com/questions/645818/how-to-install-certificates-for-command-line
 
+   My example c++ code in client side.
+   cmd : curl  --header "Content-Type: application/json" --request POST   --data '{"mac":"xx:xx:xx:xx:xx:xx","key":"bbb"}' https://192.x.x.x:3254/ping --insecure
 
+   CMakeLists.txt adds
+     target_link_libraries(${PROJECT_NAME} -lssl -lcrypto -lcurl)
 
+   main.cpp
+     #include <string.h>
+     #include <curl/curl.h>
 
+     CURL *curl;
+     CURLcode res;
 
+     char szJsonData[128];
+     memset(szJsonData, 0, sizeof(szJsonData));
+     string strJson = "{";
+     strJson += "\"mac\":\"xx:xx:xx:xx:xx:xx\",";
+     strJson += "\"key\":\"bbb\"";
+     strJson += "}";
+     strcpy(szJsonData, strJson.c_str());
+
+     cout << " string =  " << szJsonData << endl;
+     curl_global_init(CURL_GLOBAL_DEFAULT);
+     curl = curl_easy_init();
+
+     if (curl) {
+       // curl_easy_setopt(curl, CURLOPT_URL, "https://localhost:3254/ping");   // run for localHost
+       curl_easy_setopt(curl, CURLOPT_URL, "https://192.x.x.x:3254/ping");
+       curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "POST");
+
+       curl_slist *plist = curl_slist_append(NULL, "Content-Type: application/json");
+       curl_easy_setopt(curl, CURLOPT_HTTPHEADER, plist);
+
+       curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, 0L);
+       curl_easy_setopt(curl, CURLOPT_SSL_VERIFYHOST, 0L);
+
+       curl_easy_setopt(curl, CURLOPT_POSTFIELDS, szJsonData);
+       res = curl_easy_perform(curl);
+     }
