@@ -1,29 +1,11 @@
-1. Grpc and protobuf
-   - How to install protobuf:
-     http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
-   - How to install grpc:
-     http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
-     安装gRPC，pip3 install grpcio
-     安装gRPC，pip3 install grpcio-tools
+1. An Overview of Multi-Task Learning in Deep Neural Networks
+   http://ruder.io/multi-task/
 
-   - gRPC tutorial
-     https://github.com/daikeren/grpc_tutorial
-     grpc code implementation among different language.
-   - https://github.com/grpc/grpc
+2. A Survey on Multi-Task Learning
+   https://arxiv.org/pdf/1707.08114.pdf
 
-   - Shared memory for grpc client and server
-     https://stackoverflow.com/questions/47550894/shared-memory-for-grpc-client-and-server
-
-   - Apache Arrow 0.11.0 Release
-     https://arrow.apache.org/blog/
-
-   - Python bindings for Apache Arrow
-     https://arrow.apache.org/docs/python/
-     -- a cross-language development platform for in-memory data.
-     -- command to create pyarrow for python3
-        virtualenv -p python3 pyarrow
-        Note: virtualenv pyarrow   -----> default create python 2.7
-     -- https://arrow.apache.org/docs/python/development.html#developing-on-linux-and-macos
-
-2. Rust: Open Machine Intelligence Framework for Hackers. (GPU/CPU)
+3. Rust: Open Machine Intelligence Framework for Hackers. (GPU/CPU)
    https://github.com/autumnai/leaf
+
+4. OpenCV dnn caffe infer sw arch.
+   https://docs.opencv.org/3.4/d3/d6c/classcv_1_1dnn_1_1Layer.html#details

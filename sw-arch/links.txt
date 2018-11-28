@@ -1,16 +1,36 @@
-1. An Overview of Multi-Task Learning in Deep Neural Networks
-   http://ruder.io/multi-task/
+1. Grpc and protobuf
+   - How to install protobuf:
+     http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
+   - How to install grpc:
+     http://blog.fudenglong.site/2017/11/17/%E5%9C%A8python3%E4%B8%AD%E4%BD%BF%E7%94%A8google%E7%9A%84protobuf/
+     安装gRPC，pip3 install grpcio
+     安装gRPC，pip3 install grpcio-tools
 
-2. A Survey on Multi-Task Learning
-   https://arxiv.org/pdf/1707.08114.pdf
+   - gRPC tutorial
+     https://github.com/daikeren/grpc_tutorial
+     grpc code implementation among different language.
+   - https://github.com/grpc/grpc
 
-3. Apache Arrow
+   - Shared memory for grpc client and server
+     https://stackoverflow.com/questions/47550894/shared-memory-for-grpc-client-and-server
+
+   - Apache Arrow 0.11.0 Release
+     https://arrow.apache.org/blog/
+
+   - Python bindings for Apache Arrow
+     https://arrow.apache.org/docs/python/
+     -- a cross-language development platform for in-memory data.
+     -- command to create pyarrow for python3
+        virtualenv -p python3 pyarrow
+        Note: virtualenv pyarrow   -----> default create python 2.7
+     -- https://arrow.apache.org/docs/python/development.html#developing-on-linux-and-macos
+
+2. Apache Arrow
    Introduction to Apache Arrow
    https://beta.observablehq.com/@theneuralbit/introduction-to-apache-arrow
 
    Official github link
    https://github.com/apache/arrow
-
 
    https://arrow.apache.org/docs/python/ipc.html
    Streaming, Serialization, and IPC
@@ -18,5 +38,21 @@
    https://arrow.apache.org/docs/python/memory.html#io
    pyarrow.plasma.PlasmaClient
    https://arrow.apache.org/docs/python/generated/pyarrow.plasma.PlasmaClient.html
+
+3. ssl to send htps POST for certification.
+   Official website: https://curl.haxx.se/
+
+   Other relative info
+   自簽署
+   https://www.akadia.com/services/ssh_test_certificate.html
+   自己建一個ca來簽署
+   https://engineering.circle.com/https-authorized-certs-with-node-js-315e548354a2
+   講解ssl
+   https://www.netadmin.com.tw/article_content.aspx?sn=1106140008
+   ubuntu add crt to trusted
+   https://askubuntu.com/questions/645818/how-to-install-certificates-for-command-line
+
+
+
 
 
