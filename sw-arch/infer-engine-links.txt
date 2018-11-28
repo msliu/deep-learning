@@ -9,3 +9,7 @@
 
 4. OpenCV dnn caffe infer sw arch.
    https://docs.opencv.org/3.4/d3/d6c/classcv_1_1dnn_1_1Layer.html#details
+
+   Profiling OpenCV Applications
+   https://github.com/opencv/opencv/wiki/Profiling-OpenCV-Applications
+   https://github.com/intel/IntelSEAPI
