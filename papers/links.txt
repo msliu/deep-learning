@@ -50,7 +50,7 @@
         *aReturnBlurResultData = stddev.val[0] * stddev.val[0];
       }
 
-      [Not] parameter in blur() for blur test
+      [Note] parameter in blur() for blur test
             Size(10,10)
             E/RobotVision:  blur det in java = 28.740300915075235. // *aReturnBlurResultData = stddev.val[0] * stddev.val[0];
 
