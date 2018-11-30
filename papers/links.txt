@@ -29,3 +29,44 @@
 
    2.2 CosFace: Large Margin Cosine Loss for Deep Face Recognition
        https://arxiv.org/abs/1801.09414
+
+3. Blur detection
+   Example code for blur detection
+
+      Mat blurOutput;
+      int kernel_size = 3;
+      int scale = 1;
+      int delta = 0;
+      int ddepth = CV_16S;
+      // Mat blurImage;
+
+      // keep clur() to do test
+      // blur(aColorInputImage, blurImage, Size(2,2)); // [Note]
+      Laplacian( aColorInputImage, blurOutput, ddepth, kernel_size, scale, delta, BORDER_DEFAULT );
+      // aOutputImage = blurImage;
+      Scalar mean, stddev; //0:1st channel, 1:2nd channel and 2:3rd channel
+      meanStdDev(blurOutput, mean, stddev, Mat());
+      if (aReturnBlurResultData) {
+        *aReturnBlurResultData = stddev.val[0] * stddev.val[0];
+      }
+
+      [Not] parameter in blur() for blur test
+            Size(10,10)
+            E/RobotVision:  blur det in java = 28.740300915075235. // *aReturnBlurResultData = stddev.val[0] * stddev.val[0];
+
+            Size(8,8)
+            E/RobotVision:  blur det in java = 47.134004381939086
+
+            Size(6,6)
+            E/RobotVision:  blur det in java = 88.9029381939086
+
+            Size(4,4)
+            E/RobotVision:  blur det in java = 259.99400986659674
+
+            Size(2,2) should be ok as a threshold.
+            E/RobotVision:  blur det in java = 1095.1174236831475
+
+            threadhold set to 1500
+
+            Size(0,0)
+            E/RobotVision:  blur det in java = 3228.5143919595594
