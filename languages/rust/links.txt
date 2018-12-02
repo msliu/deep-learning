@@ -1,2 +1,7 @@
 1. Rust Documentation
    https://www.rust-lang.org/en-US/documentation.html
+
+   http://askeing.github.io/rust-book/concurrency.html
+
+   OpenCV in rust
+   https://github.com/nebgnahz/cv-rs
