@@ -1,0 +1,5 @@
+1. Bad performance on OpenCV
+   1.1 scale operation in OpenCV (run with python)
+       focus on scale down case.
+
+   
