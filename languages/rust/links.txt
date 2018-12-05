@@ -10,6 +10,7 @@
    Rust Parallel
    https://docs.rs/rayon/*/rayon/index.html
    https://github.com/rayon-rs/rayon
+   https://docs.rs/rayon/1.0.3/rayon/
 
    https://rust-lang-nursery.github.io/rust-cookbook/concurrency/parallel.html
 
