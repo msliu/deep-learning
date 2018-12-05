@@ -11,6 +11,7 @@
    https://docs.rs/rayon/*/rayon/index.html
    https://github.com/rayon-rs/rayon
    https://docs.rs/rayon/1.0.3/rayon/
+   http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/
 
    https://rust-lang-nursery.github.io/rust-cookbook/concurrency/parallel.html
 
