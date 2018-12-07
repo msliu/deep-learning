@@ -91,3 +91,6 @@
        curl_easy_setopt(curl, CURLOPT_POSTFIELDS, szJsonData);
        res = curl_easy_perform(curl);
      }
+
+4. Docker Secrets
+   https://yq.aliyun.com/articles/91396
