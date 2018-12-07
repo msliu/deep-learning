@@ -22,4 +22,5 @@
    https://www.reddit.com/r/rust/comments/6j3d99/rust_parallelism_does_the_language_itself_allow/
    https://blog.rust-lang.org/2018/07/27/what-is-rust-2018.html
 
-
+   install rust
+   https://www.rust-lang.org/tools/install
