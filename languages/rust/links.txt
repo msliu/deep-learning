@@ -1,3 +1,6 @@
+0. rust projects relatives to machine learning.
+   https://github.com/spearow/juice
+
 1. Rust Documentation
    https://www.rust-lang.org/en-US/documentation.html
 
