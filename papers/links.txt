@@ -78,10 +78,15 @@
 
 
 
+=======================  self study
+1. Image Segmentation
+   1.1 Traditional way
+       Image Segmentation with Watershed Algorithm
+       https://docs.opencv.org/3.4/d3/db4/tutorial_py_watershed.html
 
-
-
-
+   1.2 deep learning way
+       Semantic Segmentation using deep learning
+       https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
 
 
 
