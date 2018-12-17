@@ -85,8 +85,20 @@
        https://docs.opencv.org/3.4/d3/db4/tutorial_py_watershed.html
 
    1.2 deep learning way
+       語義分割研究者的福利來了，Google 宣布開源 DeepLabv3+
+       https://technews.tw/2018/03/27/semantic-image-segmentation-with-deeplab-in-tensorflow/
+       https://github.com/rishizek/tensorflow-deeplab-v3-plus
+
+       paper:
+       deeplab v1:
+                   SEMANTIC IMAGE SEGMENTATION WITH DEEP CONVOLUTIONAL NETS AND FULLY CONNECTED CRFS
+                   https://arxiv.org/pdf/1412.7062v3.pdf
+
        Semantic Segmentation using deep learning
        https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
+       https://www.mathworks.com/help/vision/ug/semantic-segmentation-basics.html
 
+
+   首先介绍图像边缘检测，具体就梯度算子、kirsch算子、laplacian-gauss算子、canny算子、log滤波算子、sobel算子、Robert算子、prewitt算子边缘检测方法介绍检测原理并通过编程实现，比较各种方法的处理结果。
 
 
