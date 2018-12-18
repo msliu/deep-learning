@@ -98,6 +98,8 @@
        https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
        https://www.mathworks.com/help/vision/ug/semantic-segmentation-basics.html
 
+       pytorch
+       https://github.com/CSAILVision/semantic-segmentation-pytorch
 
    首先介绍图像边缘检测，具体就梯度算子、kirsch算子、laplacian-gauss算子、canny算子、log滤波算子、sobel算子、Robert算子、prewitt算子边缘检测方法介绍检测原理并通过编程实现，比较各种方法的处理结果。
 
