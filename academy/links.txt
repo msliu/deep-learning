@@ -11,4 +11,7 @@
    https://github.com/bayesgroup/deepbayes-2018
 
 4. NIPS -  Neural Information Processing Systems
-   https://nips.cc/Conferences/2018   
+   https://nips.cc/Conferences/2018
+
+5. NeurIPS 2018，最佳論文也許就藏在這30篇oral論文中
+   http://bangqu.com/r35xE1.html?utm_source=dable
