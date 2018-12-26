@@ -74,7 +74,10 @@
 4. A Survey on Multi-Task Learning
    https://arxiv.org/pdf/1707.08114.pdf
 
-
+5. Body Pose Study
+   news link: http://technews.tw/2018/12/25/pni-leap-tools/
+   LEAP Estimates Animal Pose
+   https://github.com/talmo/leap
 
 
 
