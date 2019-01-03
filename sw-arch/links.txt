@@ -94,3 +94,6 @@
 
 4. Docker Secrets
    https://yq.aliyun.com/articles/91396
+
+5. ncnn
+   https://github.com/Tencent/ncnn
