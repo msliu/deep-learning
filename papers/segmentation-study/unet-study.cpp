@@ -7,7 +7,7 @@ https://www.renom.jp/notebooks/tutorial/image_processing/u-net/notebook.html
 A Multi-scale U-Net for Semantic Segmentation of Histological Images from Radical Prostatectomies
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5977596/
 
-
-
+Lesson 14: Deep Learning Part 2 2018 - Super resolution; Image segmentation with Unet
+https://www.youtube.com/watch?v=nG3tT31nPmQ
 
 
