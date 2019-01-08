@@ -2,23 +2,28 @@
    0.1 Bilinear CNNs for Fine-grained Visual Recognition
        http://vis-www.cs.umass.edu/bcnn/
 
-1. Loss Function
-   Introduction to Loss Functions
-   https://blog.algorithmia.com/introduction-to-loss-functions/
+1. Basic Concepts 
+   1.1 Backpropagation
+       wiki: https://en.wikipedia.org/wiki/Backpropagation
+       paper: http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf
 
-   Current data loss function used in CNN listed below:
-   Euclidean loss, (square) hinge loss, information gain loss, contrastive loss, triplet loss, Softmax loss
+   1.2 Loss Function
+       Introduction to Loss Functions
+       https://blog.algorithmia.com/introduction-to-loss-functions/
 
-   Def: We define the softmax loss as the combination of 
-        A). a cross-entropy loss,
-        B). a softmax function and
-        C). the last fully connected layer
+       Current data loss function used in CNN listed below:
+       Euclidean loss, (square) hinge loss, information gain loss, contrastive loss, triplet loss, Softmax loss
 
-   1.1 Softmax, Softmax Loss, Large-Margin Softmax Loss
-       Gated Softmax Classification
-           http://www-oldurls.inf.ethz.ch/personal/marc.pollefeys/pubs/MemisevicNIPS10.pdf
-       Large-Margin Softmax Loss for Convolutional Neural Networks
-           http://proceedings.mlr.press/v48/liud16.pdf
+       Def: We define the softmax loss as the combination of 
+            A). a cross-entropy loss,
+            B). a softmax function and
+            C). the last fully connected layer
+
+       1.2.1 Softmax, Softmax Loss, Large-Margin Softmax Loss
+             Gated Softmax Classification
+               http://www-oldurls.inf.ethz.ch/personal/marc.pollefeys/pubs/MemisevicNIPS10.pdf
+             Large-Margin Softmax Loss for Convolutional Neural Networks
+               http://proceedings.mlr.press/v48/liud16.pdf
 
 2. Face Recognition
    The top 7 trends for facial recognition in 2018
