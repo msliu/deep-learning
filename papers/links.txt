@@ -90,6 +90,11 @@
    https://blog.csdn.net/piaoxuezhong/article/details/78503416
    http://vaplab.ee.ncu.edu.tw/chinese/pcchang/course2007b/comsp/SR/Design.htm
 
+7. GAN
+   Brighter AI: https://blogs.nvidia.com/blog/2017/11/30/brighter-ai/
+                How Deep Learning Can Shed Light on Nighttime Video Footage
+
+
 =======================  self study
 1. Image Segmentation
    1.1 Traditional way
