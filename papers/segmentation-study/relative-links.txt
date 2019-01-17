@@ -1,0 +1,12 @@
+Image Segmentation Algorithms Overview
+https://arxiv.org/pdf/1707.02051.pdf
+
+FCN:
+Fully Convolutional Networks for Semantic Segmentation
+https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
+
+Convolutional CRFs for Semantic Segmentation
+https://arxiv.org/pdf/1805.04777.pdf
+
+【总结】图像语义分割之FCN和CRF
+https://zhuanlan.zhihu.com/p/22308032
