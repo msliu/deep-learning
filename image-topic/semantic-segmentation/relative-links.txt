@@ -1,18 +1,21 @@
 Image Segmentation Algorithms Overview
 https://arxiv.org/pdf/1707.02051.pdf
 
+Semantic Segmentation – A 2019 Gudie to Semantic Segmentation Using Deep Learning
+https://deeplearninganalytics.org/blog/semantic-segementation
+
 Recent progress in semantic image segmentation
 Thu, 20 Sep 2018
 https://arxiv.org/pdf/1809.10198.pdf
 
-FCN:
+========================= FCN:
 Fully Convolutional Networks for Semantic Segmentation
 https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 
 Github link for FCN:
 https://github.com/wkentaro/pytorch-fcn
 
-SegNet
+======================== SegNet
 https://blog.csdn.net/Fate_fjh/article/details/53467948
 
 https://blog.csdn.net/zizi7/article/details/77193422
@@ -22,6 +25,11 @@ SegNet【1】是FCN 的一个改进版，由 Cambridge 提出，旨在解决自�
 
 Convolutional CRFs for Semantic Segmentation
 https://arxiv.org/pdf/1805.04777.pdf
+
+======================= u-net
+publish Jan 2019
+Normalization in Training U-Net for 2D Biomedical Semantic Segmentation
+https://arxiv.org/pdf/1809.03783.pdf
 
 【总结】图像语义分割之FCN和CRF
 https://zhuanlan.zhihu.com/p/22308032
