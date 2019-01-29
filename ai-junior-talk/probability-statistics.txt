@@ -1,1 +1,4 @@
 https://wangcc.me/LSHTMlearningnote/intro.html
+
+-- likelihood and bayes
+https://alexanderetz.com/2015/04/15/understanding-bayes-a-look-at-the-likelihood/

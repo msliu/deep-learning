@@ -6,3 +6,6 @@
 
 3. A first course in probability by ross.
    http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
+
+4. 《动手学深度学习》
+   https://zh.d2l.ai/?fbclid=IwAR2_hZcfd6KlgilNjtV92RXo1idFXrijy-mR4uZYeOn1ddDZzsJ5NNAgU84   

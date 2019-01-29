@@ -1,0 +1,31 @@
+1. Introduction
+   - It is the basis of classical maximum likelihood estimation methods, and it plays a key role in Bayesian inference.
+   - Likelihood is a strange concept, in that it is not a probability, but it is proportional to a probability.
+   - The likelihood of a hypothesis (H) given some data (D) is proportional to the probability of obtaining D given that H is true,
+     multiplied by an arbitrary positive constant K. In other words, L(H) = K × P (D|H).
+     -- hypotheses can represent such as the mean of a normal distribution.
+   - Since a likelihood is not actually a probability it doesn’t obey various rules of probability;
+     -- for example, likelihoods need not sum to 1.
+   - A critical difference between probability and likelihood
+     -- In the case of a conditional probability, P(D|H), the hypothesis is fixed and the data are free to vary.
+     -- Likelihood, however, is the opposite.
+        --- a hypothesis, L(H), conditions on the data as if they are fixed while allowing the hypotheses to vary.
+
+2. The Likelihood Axiom
+   - The Law of Likelihood
+     “within the framework of a statistical model, a particular set of data supports one statistical hypothesis better than another if the likelihood of the first hypothesis,
+      on the data, exceeds the likelihood of the second hypothesis”
+
+     In other words, there is evidence for H1 over H2 if and only if the probability of the data under H1 is greater than the probability of the data under H2.
+     That is, D is evidence for H1 over H2 if P(D|H1) > P(D|H2)
+
+     Furthermore, the strength of the statistical evidence for H1 over H2 is quantified by the ratio of their likelihoods.
+     We write the likelihood ratio as LR(H1,H2) = L(H1)/L(H2) — which is equal to P(D|H1)/P(D|H2) since the arbitrary constants cancel out of the fraction.
+
+    --------------- example
+
+  - The Likelihood Principle
+  ????
+
+
+3. Likelihoods are inherently comparative    
