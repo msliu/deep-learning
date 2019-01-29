@@ -13,3 +13,6 @@
    Profiling OpenCV Applications
    https://github.com/opencv/opencv/wiki/Profiling-OpenCV-Applications
    https://github.com/intel/IntelSEAPI
+
+5. Introducing Gluon: a new library for machine learning from AWS and Microsoft
+   https://aws.amazon.com/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft/   
