@@ -1,0 +1,6 @@
+------ Pytorch.nn.conv2d(in_channels, out_channels, kernel_size, stride=1, padding=0, dilation=1, groups=1, bias=True)
+official link: https://pytorch.org/docs/0.3.0/_modules/torch/nn/modules/conv.html#Conv2d
+知乎：https://zhuanlan.zhihu.com/p/32190799  (包含簡單數學公式說明)
+
+------ torch.nn.ConvTranspose2d(in_channels, out_channels, kernel_size, stride=1, padding=0, output_padding=0, groups=1, bias=True, dilation=1)
+https://pytorch.org/docs/stable/nn.html

@@ -1,0 +1,43 @@
+========================================================== Common
+* 激励函数 (Activation Function) (Medium: https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+		https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-04-activation-function/
+		你甚至可以创造自己的激励函数来处理自己的问题, 不过要确保的是这些激励函数必须是可以微分的, 因为在 backpropagation 误差反向传递的时候, 只有这些可微分的激励函数才能把误差传递回去.
+
+		比如当你的神经网络层只有两三层, 不是很多的时候, 对于隐藏层, 使用任意的激励函数, 随便掰弯是可以的, 不会有特别大的影响.
+		不过, 当你使用特别多层的神经网络, 在掰弯的时候, 玩玩不得随意选择利器. 因为这会涉及到梯度爆炸, 梯度消失的问题. 因为时间的关系, 我们可能会在以后来具体谈谈这个问题.
+
+		在卷积神经网络 Convolutional neural networks 的卷积层中, 推荐的激励函数是 relu.
+		在循环神经网络中 recurrent neural networks, 推荐的是 tanh 或者是 relu (这个具体怎么选, 我会在以后 循环神经网络的介绍中在详细讲解).
+
+		http://mropengate.blogspot.com/2017/02/deep-learning-role-of-activation.html
+		激勵函數的選擇：為何 ReLU 勝出？
+		  1. 梯度消失問題 (vanishing gradient problem)
+		     1.1 使用 sigmoid 和 tanh 函數容易發生梯度消失問題
+		     1.2 ReLU的分段線性性質能有效的克服梯度消失的問題。
+          2. 類神經網路的稀疏性（奧卡姆剃刀原則)
+             2.1 Relu會使部分神經元的輸出為0，可以讓神經網路變得稀疏，緩解過度擬合的問題。
+                 但衍生出另一個問題是，如果把一個神經元停止後，就難以再次開啟（Dead ReLU Problem），因此又有 Leaky ReLU 類 (x<0時取一個微小值而非0), maxout (增加激勵函數專用隱藏層，有點暴力) 等方法，或使用 adagrad 等可以調節學習率的演算法。
+          3. 生物事實：全有全無律 (all or none law)
+          4. 計算量節省
+             4.1 Relu 計算量小，只需要判斷輸入是否大於0，不用指數運算。
+
+========================================================== Pytorch
+* How to define the relationship among 
+
+https://discuss.pytorch.org/t/how-to-keep-the-shape-of-input-and-output-same-when-dilation-conv/14338
+
+You could visualize it with some tools like ezyang’s convolution visualizer 514 or calculate it with this formula:
+
+i = input
+o = output
+p = padding
+k = kernel_size
+s = stride
+d = dilation
+
+                        o = [i + 2*p - k - (k-1)*(d-1)]/s + 1
+
+A useful link mentioned above to unterstand above parameters dynamically.
+https://ezyang.github.io/convolution-visualizer/index.html
+
+
