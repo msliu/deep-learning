@@ -21,6 +21,13 @@
           4. 計算量節省
              4.1 Relu 計算量小，只需要判斷輸入是否大於0，不用指數運算。
 
+* 评价目标检测(object detection)模型的参数:IOU,AP,mAP
+  1.IOU(Intersection Over Union)
+  2.AP(average precision)
+  3.mAP(mean average precision)
+
+
+
 ========================================================== Pytorch
 * How to define the relationship among 
 
