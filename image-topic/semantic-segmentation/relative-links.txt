@@ -36,3 +36,6 @@ https://zhuanlan.zhihu.com/p/22308032
 
 ======================= mask rcnn
 https://arxiv.org/abs/1703.06870
+
+mask-rcnn with pytorch
+https://github.com/multimodallearning/pytorch-mask-rcnn

@@ -26,7 +26,13 @@
   2.AP(average precision)
   3.mAP(mean average precision)
 
+* 准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure
+  https://blog.argcv.com/articles/1036.c
 
+* Mean subtraction for image preprocessing
+  Looked into blobfromImage()
+  https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+  https://forums.fast.ai/t/how-is-vgg16-mean-calculated/4577/10
 
 ========================================================== Pytorch
 * How to define the relationship among 
