@@ -4,3 +4,6 @@ https://github.com/swook/GazeML/tree/master/datasets/UnityEyes
 
 https://github.com/swook/GazeML
 https://ait.ethz.ch/projects/2018/landmarks-gaze/
+
+
+https://github.com/lincolnhard/eye-isophote-curvature

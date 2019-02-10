@@ -1,0 +1,8 @@
+Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
+https://github.com/facebookresearch/supervision-by-registration
+
+face-landmark-localization
+https://github.com/lsy17096535/face-landmark
+
+
+https://stackoverflow.com/questions/37724457/is-it-possible-to-load-read-shape-predictor-68-face-landmarks-dat-at-compile-tim
