@@ -97,3 +97,9 @@
 
 5. ncnn
    https://github.com/Tencent/ncnn
+
+6. Nameko
+   Nameko official website
+   https://github.com/nameko/nameko
+   Nameko Examples
+   https://github.com/nameko/nameko-examples
