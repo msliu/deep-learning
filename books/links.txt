@@ -14,4 +14,7 @@
    https://space.bilibili.com/209599371/channel/detail?cid=23541&fbclid=IwAR1h7CLmzmDfZ7PI7Hzm8HgjY4WUSlfrRDtAuc4Ctr-QxRKONPQTB5wMYCQ
 
 5. fast.ai
-   https://www.fast.ai/   
+   https://www.fast.ai/
+
+6. Think Bayes
+   https://doc.lagout.org/programmation/python/Think%20Bayes_%20Bayesian%20Statistics%20in%20Python%20%5BDowney%202013-10-04%5D.pdf   
