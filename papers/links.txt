@@ -1,3 +1,20 @@
+========== 2019 nice paper to study begin
+Poor Video Streaming Performance Explained (and Fixed)
+https://arxiv.org/pdf/1901.00038.pdf
+Dynamic Space-Time Scheduling for GPU Inference
+https://arxiv.org/pdf/1901.00041.pdf
+Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion
+https://arxiv.org/pdf/1901.00063.pdf
+Improving Tree-LSTM with Tree Attention
+https://arxiv.org/pdf/1901.00066.pdf
+Clustering with Distributed Data
+https://arxiv.org/pdf/1901.00214.pdf
+A Survey on Multi-output Learning
+https://arxiv.org/pdf/1901.00248.pdf
+Multi-level CNN for lung nodule classification withGaussian Process assisted hyperparameter optimization
+https://arxiv.org/pdf/1901.00276.pdf
+========== 2019 nice paper to study end
+
 0. CNN
    0.1 Bilinear CNNs for Fine-grained Visual Recognition
        http://vis-www.cs.umass.edu/bcnn/
