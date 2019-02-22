@@ -13,6 +13,9 @@ A Survey on Multi-output Learning
 https://arxiv.org/pdf/1901.00248.pdf
 Multi-level CNN for lung nodule classification withGaussian Process assisted hyperparameter optimization
 https://arxiv.org/pdf/1901.00276.pdf
+
+Gaussian Conditional Random Fields for Classification
+https://arxiv.org/pdf/1902.00045.pdf
 ========== 2019 nice paper to study end
 
 0. CNN
