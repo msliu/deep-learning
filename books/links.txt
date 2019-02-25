@@ -17,4 +17,10 @@
    https://www.fast.ai/
 
 6. Think Bayes
-   https://doc.lagout.org/programmation/python/Think%20Bayes_%20Bayesian%20Statistics%20in%20Python%20%5BDowney%202013-10-04%5D.pdf   
+   https://doc.lagout.org/programmation/python/Think%20Bayes_%20Bayesian%20Statistics%20in%20Python%20%5BDowney%202013-10-04%5D.pdf
+
+7. Fundamentals of Matrix Computations
+   https://davidtabora.files.wordpress.com/2015/01/david_s-_watkins_fundamentals_of_matrix_computat.pdf
+
+8. Matrix Computations
+   https://convexoptimization.com/TOOLS/MatrixComputation.pdf
