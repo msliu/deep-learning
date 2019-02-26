@@ -23,4 +23,6 @@
    https://davidtabora.files.wordpress.com/2015/01/david_s-_watkins_fundamentals_of_matrix_computat.pdf
 
 8. Matrix Computations
+   4th edition
+   http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf
    https://convexoptimization.com/TOOLS/MatrixComputation.pdf
