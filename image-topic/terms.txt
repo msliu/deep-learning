@@ -38,7 +38,11 @@
   https://en.wikipedia.org/wiki/Generative_model
 
 * Batch N
-  http://violin-tao.blogspot.com/2018/02/ml-batch-normalization.html  
+  http://violin-tao.blogspot.com/2018/02/ml-batch-normalization.html
+
+* Group N
+  https://eccv2018.org/openaccess/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf
+  
 ========================================================== Pytorch
 * How to define the relationship among 
 
