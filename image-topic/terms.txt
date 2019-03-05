@@ -36,6 +36,9 @@
 
 * Generative Model v.s. discriminative model
   https://en.wikipedia.org/wiki/Generative_model
+
+* Batch N
+  http://violin-tao.blogspot.com/2018/02/ml-batch-normalization.html  
 ========================================================== Pytorch
 * How to define the relationship among 
 
