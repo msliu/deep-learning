@@ -26,3 +26,6 @@
    4th edition
    http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf
    https://convexoptimization.com/TOOLS/MatrixComputation.pdf
+
+9. tech books list
+   https://github.com/NinoDui/TechLibrary   
