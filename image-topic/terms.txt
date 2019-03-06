@@ -40,6 +40,26 @@
 * Batch N
   http://violin-tao.blogspot.com/2018/02/ml-batch-normalization.html
 
+ 如何不用Normalization訓練10000層ResNet
+  BatchNorm等各種normalization近幾年被視為訓練非常深的神經網路所必要的元素，有時候甚至可以讓收斂速度更快且在testing data有更好的表現。
+  最近ICLR2019有一篇論文挑戰了這個觀點並提出了以下兩個問題
+
+    1.不用Normalization，是否能訓練穩定的很深的Resnet?
+    2.如果可以，在同樣條件下(e.g., learning rate)，有辦法做得跟用Normalization一樣好嗎?
+
+  https://www.facebook.com/datasci.info/posts/961701457357419
+
+  深度学习中 Batch Normalization为什么效果好？
+  https://www.zhihu.com/question/38102762
+    --> 配合著看 original paper https://arxiv.org/pdf/1502.03167.pdf 
+
+        The meaning of each letter might help understand:
+
+        N: number of images in the batch
+        H: height of the image
+        W: width of the image
+        C: number of channels of the image (ex: 3 for RGB, 1 for grayscale...)
+
 * Group N
   https://eccv2018.org/openaccess/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf
   
