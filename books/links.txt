@@ -28,4 +28,7 @@
    https://convexoptimization.com/TOOLS/MatrixComputation.pdf
 
 9. tech books list
-   https://github.com/NinoDui/TechLibrary   
+   https://github.com/NinoDui/TechLibrary
+
+10. Deep Learning book
+    https://hemingwang.blogspot.com/2019/01/deep-learning-book.html?fbclid=IwAR0fzzd5_F6bXDu3D9teVnTUeZ3ULJ4eZs0-M1Jc3NsNSJrs5wYcp01-riI

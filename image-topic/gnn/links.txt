@@ -2,4 +2,7 @@
   https://arxiv.org/pdf/1812.08434.pdf
 
 * CNN已老，GNN来了】DeepMind、谷歌大脑、MIT等27位作者重磅论文，图网络让深度学习也能因果推理
-  https://zhuanlan.zhihu.com/p/38071963  
+  https://zhuanlan.zhihu.com/p/38071963 
+
+* GNN新作《Relational inductive biases，deep learning，and graph networks》讀書筆記
+  https://www.twblogs.net/a/5b81cf962b71772165ae66a4  
