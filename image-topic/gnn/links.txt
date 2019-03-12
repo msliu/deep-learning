@@ -7,7 +7,8 @@
 * GNN新作《Relational inductive biases，deep learning，and graph networks》讀書筆記
   https://www.twblogs.net/a/5b81cf962b71772165ae66a4  
 
-
+* Deep Learning on Graphs For Computer Vision — CNN, RNN, and GNN
+  https://medium.com/@utorontomist/deep-learning-on-graphs-for-computer-vision-cnn-rnn-and-gnn-c114d6004678
 
 
 two pappers to understand embedding
