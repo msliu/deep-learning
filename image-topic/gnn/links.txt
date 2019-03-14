@@ -1,3 +1,11 @@
+* Must-read papers on GNN
+  https://github.com/thunlp/GNNPapers
+  Basic:
+         1. Graph Neural Networks: A Review of Methods and Applications
+
+         (Working)Graph Embedding Techniques, Applications, and Performance: A Survey
+         https://arxiv.org/pdf/1705.02801.pdf
+
 * Graph Neural Networks: A Review of Methods and Applications
   https://arxiv.org/pdf/1812.08434.pdf
 
